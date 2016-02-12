@@ -1,0 +1,4 @@
+/.vagrant
+/static
+*.pyc
+/grassroots/settings/local.py
