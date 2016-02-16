@@ -2,3 +2,4 @@
 /static
 *.pyc
 /grassroots/settings/local.py
+.idea
